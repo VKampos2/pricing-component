@@ -102,6 +102,10 @@ input:checked[type="checkbox"]::before {
   color: hsl(240, 78%, 98%);
 }
 
+.price {
+  display:none;
+}
+
 .basic-subscription {
   position: relative;
   background-color: white;
