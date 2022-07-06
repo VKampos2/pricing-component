@@ -50,10 +50,9 @@ p {
   background: url(../images/bg-bottom.svg) no-repeat left bottom;
 }
 
-.price {
-  display: none;
+.yearlly-price {
+  display:none;
 }
-
 
 .label {
   position: relative;
