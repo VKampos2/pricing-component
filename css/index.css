@@ -50,7 +50,11 @@ p {
   background: url(../images/bg-bottom.svg) no-repeat left bottom;
 }
 
-.yearlly-price {
+.yearly-price {
+  display:none;
+}
+
+.show {
   display:none;
 }
 
